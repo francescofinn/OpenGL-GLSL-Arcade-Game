@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.erb": "erb",
+        "*.asm": "asm-intel-x86-generic",
+        "vector": "cpp"
+    }
+}

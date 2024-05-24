@@ -1,0 +1,3 @@
+/home/2023/kpaul/tmp/tmp.I52s4vgVHc/cmake-build-debug/CMakeFiles/lab10cpp.dir
+/home/2023/kpaul/tmp/tmp.I52s4vgVHc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/2023/kpaul/tmp/tmp.I52s4vgVHc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

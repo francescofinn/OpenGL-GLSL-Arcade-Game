@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="McGill mimi (d67567dc-9890-4d71-9346-3d2ff0075f17)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="McGill mimi (d67567dc-9890-4d71-9346-3d2ff0075f17)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
