@@ -13,4 +13,7 @@ The paddle is multi-coloured, so that you can differentiate the sections and the
 
 The scoring goes up by 1 for each brick eliminated in the first two rows, then by 3, then by 5. There are 108 bricks (6 * 18).
 
+The Game:
+
+![image](brick-breaker.png)
 
